@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @MatthewTHutchinson
-- 👀 I’m interested in software engineering & robotics
-- 🌱 I’m currently learning mechanical engineering with a focus on robotics
-- 💞️ I’m looking to collaborate on coding projects and learn more about software engineering
+- 👀 I’m interested in robotics, machine learning, and mechanical engineering
 - 📫 Feel free to contact me @MatthewTHutchinson1@gmail.com 
 
 <!---
