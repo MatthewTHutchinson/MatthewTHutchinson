@@ -1,22 +1,8 @@
 # Matthew Hutchinson
 
-I work at the intersection of robotics, machine learning, and mechanical
-engineering. I like projects where software has to touch the physical world:
-robot control, simulation, perception, fabrication, data tools, and the messy
-systems work that makes experiments actually run.
+I build software for the physical world. My work blends mechanical engineering, machine learning, and robotics - specifically focusing on autonomy, control, and simulation for mobile systems.
 
-Right now I am focused on:
+Currently, I’m building robotics lab tools, experimenting with AI workflows, and writing personal software to keep my life organized. I care about practical tools, clear documentation, and turning rough ideas into testable code. My public repos are a mix of experiments, coursework, and personal infrastructure.
 
-- robotics research and lab tools for legged/mobile robots,
-- mechanical simulation and flexible-structure modeling,
-- AI-assisted workflows that stay human-reviewed,
-- personal software for organizing media, music, fitness, and active projects,
-- making my engineering work easier to understand, reuse, and build on.
-
-I enjoy small, practical tools, clear documentation, and projects that turn
-rough ideas into something testable. My public repositories are a mix of course
-projects, robotics experiments, personal infrastructure, and portfolio work.
-
-Website: [matthewthutchinson.github.io](https://matthewthutchinson.github.io/)
-
-Contact: [MatthewTHutchinson1@gmail.com](mailto:MatthewTHutchinson1@gmail.com)
+Website: matthewthutchinson.github.io
+Contact: MatthewTHutchinson1@gmail.com
