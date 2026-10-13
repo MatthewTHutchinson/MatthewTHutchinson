@@ -2,9 +2,9 @@
 
 ### Robotics · autonomy · engineering tools
 
-I build software and systems for the physical world—bringing mechanical engineering, robotics, and machine learning together to make ideas testable.
+I build software and systems for the physical world, bringing mechanical engineering, robotics, and machine learning together to make ideas testable.
 
-[Portfolio](https://matthewthutchinson.github.io/) · [All repositories](https://github.com/MatthewTHutchinson?tab=repositories) · [Pull requests](https://github.com/pulls?q=is%3Apr+author%3AMatthewTHutchinson) · [LinkedIn](https://www.linkedin.com/in/matthewthutch/)
+[Portfolio](https://matthewthutchinson.github.io/) · [All repositories](https://github.com/MatthewTHutchinson?tab=repositories) · [LinkedIn](https://www.linkedin.com/in/matthew-hutch/)
 
 ---
 
@@ -12,8 +12,10 @@ I build software and systems for the physical world—bringing mechanical engine
 
 | Project | What I built or explored |
 | --- | --- |
-| [Autonomous drone gate racing](https://github.com/MatthewTHutchinson/cs260c-project) | A perception-to-control pipeline for recognizing gates, tracking them over time, and navigating a racing course. |
-| [Knowledge-editing consistency benchmark](https://github.com/MatthewTHutchinson/cs263-knowledge-editing) | Experiments comparing ROME, MEMIT, and IKE beyond rewrite accuracy, including logical consistency and retrieval conflicts. |
+| [movement library](https://matthewthutchinson.github.io/projects/movement-library/) | A personal, structured library for finding and organizing movement ideas, with concise training references. |
+| [cookbook](https://matthewthutchinson.github.io/projects/cookbook/) | A personal recipe library for saving, organizing, and adapting recipes. |
+| [autonomous drone racing](https://github.com/MatthewTHutchinson/cs260c-project) | A perception-to-control pipeline for recognizing gates, tracking them over time, and navigating a racing course. |
+| [knowledge editing comparison](https://github.com/MatthewTHutchinson/cs263-knowledge-editing) | Experiments comparing ROME, MEMIT, and IKE beyond rewrite accuracy, including logical consistency and retrieval conflicts. |
 | [Maplaser](https://github.com/MatthewTHutchinson/maplaser) | Code-first map generation for layered laser-cut artwork, alongside a terrain-to-fabrication workbench. |
 | [Portfolio](https://github.com/MatthewTHutchinson/MatthewTHutchinson.github.io) | A project record built with Astro. |
 
@@ -25,7 +27,7 @@ I build software and systems for the physical world—bringing mechanical engine
 
 ## Activity
 
-GitHub’s contribution graph below shows my public activity over time. Browse [my authored pull requests](https://github.com/pulls?q=is%3Apr+author%3AMatthewTHutchinson) for reviewable contributions, or visit [my profile](https://github.com/MatthewTHutchinson) for the live repository and contribution overview.
+GitHub displays my public contribution activity on [my profile](https://github.com/MatthewTHutchinson), alongside my repositories and activity history.
 
 ---
 
