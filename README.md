@@ -21,13 +21,9 @@ I build software and systems for the physical world, bringing mechanical enginee
 
 ## How I work
 
-- **Robotics and autonomy:** connect perception, planning, control, and physical constraints.
-- **Research software:** make experiments reproducible and evaluate more than a single headline metric.
-- **Engineering tools:** build practical workflows that turn complex inputs into inspectable outputs.
-
-## Activity
-
-GitHub displays my public contribution activity on [my profile](https://github.com/MatthewTHutchinson), alongside my repositories and activity history.
+- **Build for real use:** connect software, data, and physical systems in tools that solve a concrete problem.
+- **Use AI with intent:** apply agents to research, analysis, and software engineering, while keeping tasks bounded, outputs reviewable, and important decisions human-directed.
+- **Make work testable:** favor clear interfaces, structured information, reproducible experiments, and verification over impressive but hard-to-check claims.
 
 ---
 
